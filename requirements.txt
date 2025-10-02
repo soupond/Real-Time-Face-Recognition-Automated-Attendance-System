@@ -1,0 +1,13 @@
+opencv-python
+opencv-contrib-python
+face-recognition
+numpy
+pandas
+flask
+pyttsx3
+tabulate
+scipy
+onnxruntime
+Werkzeug
+dlib
+cmake
